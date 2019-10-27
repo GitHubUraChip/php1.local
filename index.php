@@ -19,7 +19,7 @@ echo strlen($name2); // 8 //в русск буквах  2 байта
 
 
 <body>
-<h1>PHP</h1>
+<h1>PHP1</h1>
 <p> 1 урок </p>
 
 <?php
