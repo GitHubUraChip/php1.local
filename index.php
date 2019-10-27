@@ -5,10 +5,10 @@ echo $y;
 
 
 //58min
-$name1 = 'Ivan1'; // строка набор байт
+$name1 = 'Ivan12'; // строка набор байт
 echo strlen($name1); // 4
 
-$name2 = 'Иван2';
+$name2 = 'Иван23';
 echo strlen($name2); // 8 //в русск буквах  2 байта
 ?>
 
